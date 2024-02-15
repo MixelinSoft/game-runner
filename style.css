@@ -1,0 +1,24 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  /* overflow: hidden; */
+}
+
+.canvas-container {
+  height: 100vh;
+}
+
+#canvas {
+  width: 100%;
+  border: 1px solid black;
+}
+
+.jump-button {
+  margin-left: 40px;
+  padding: 10px;
+  font-size: 40px;
+}
